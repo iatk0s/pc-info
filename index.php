@@ -221,7 +221,7 @@ $MDB = "proyecto";
         <section class="full new-prod">
             <div class="container">
                 <div class="row">
-                    <h4 class="center-align tittles">Consulta nuestros porductos</h4>
+                    <h4 class="center-align tittles">Consulta nuestros productos</h4>
                     <center>
                         <h5 class="center-align tittles">Buscador</h5>
                         <form action="./proceso.php" method="POST" enctype="multipart/form-data">
