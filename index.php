@@ -512,7 +512,7 @@ $MDB = "proyecto";
                         </p>
                         <p class="center-align flow-text">Muchas formas de pago</p>
                         <p>
-                            Haceptamos pagos con tarjetas de credito y debito.
+                            Aceptamos pagos con tarjetas de credito y debito.
                         </p>
                     </div>
                     <div class="col s12 m4">
