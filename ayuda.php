@@ -154,7 +154,7 @@
 						<li><a href="#!"><i class="zmdi zmdi-facebook"></i> &nbsp; Facebook</a></li>
 						<li><a href="#!"><i class="zmdi zmdi-twitter"></i> &nbsp; Twitter</a></li>
 						<li><a href="#!"><i class="zmdi zmdi-google-plus"></i> &nbsp; Google</a></li>
-						<li><a href="/login/index.php"><i class=""></i> &nbsp; log/reg</a></li>
+						<li><a href="login/index.php"><i class=""></i> &nbsp; log/reg</a></li>
 						
 					</ul>	
 				</div>
