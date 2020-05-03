@@ -1,7 +1,7 @@
 <?php
 session_start();
 try {
-    require_once '/admin/db.php';
+    require_once 'admin/db.php';
 
     $collection = $db->productos;
 
