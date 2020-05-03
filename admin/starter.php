@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . "../vendor/autoload.php";
+require_once __DIR__ . "/../vendor/autoload.php";
 include('session.php');
 $MDB = "proyecto";
 ?>
@@ -36,7 +36,7 @@ $MDB = "proyecto";
 
                 <nav class="navbar navbar-static-top" role="navigation">
                     <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
-                        <span class="sr-only">navegación</span>
+                        <span class="sr-only">navegaciÃ³n</span>
                     </a>
                     <div class="navbar-custom-menu">
                         <ul class="nav navbar-nav">
@@ -155,7 +155,7 @@ $MDB = "proyecto";
 
                     <!-- Sidebar Menu -->
                     <ul class="sidebar-menu" data-widget="tree">
-                        <li class="header">menú</li>
+                        <li class="header">menÃº</li>
                         <!-- Optionally, you can add icons to the links -->
                         <li class="active"><a href="starter.php"><i class="fa fa-link"></i> <span>principal</span></a></li>
                         <li><a href="./catalogo.php"><i class="fa fa-link"></i> <span>catalogo</span></a></li>
@@ -241,7 +241,7 @@ $MDB = "proyecto";
                             <thead>
                                 <tr>
                                     <th>categoria</th>
-                                    <th>descripción </th>
+                                    <th>descripciÃ³n </th>
                                     <th colspan="2" align="center">Operaciones</th>
                                 </tr>
 
